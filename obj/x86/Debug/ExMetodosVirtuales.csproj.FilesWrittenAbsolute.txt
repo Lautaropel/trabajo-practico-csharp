@@ -1,0 +1,10 @@
+/home/lautaro/Escritorio/Facultad/tpC#/ExMetodosVirtuales/ExMetodosVirtuales/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/lautaro/Escritorio/Facultad/tpC#/ExMetodosVirtuales/ExMetodosVirtuales/obj/x86/Debug/Figuras.Form1.resources
+/home/lautaro/Escritorio/Facultad/tpC#/ExMetodosVirtuales/ExMetodosVirtuales/obj/x86/Debug/ExMetodosVirtuales.Properties.Resources.resources
+/home/lautaro/Escritorio/Facultad/tpC#/ExMetodosVirtuales/ExMetodosVirtuales/bin/Debug/ExMetodosVirtuales.exe.config
+/home/lautaro/Escritorio/Facultad/tpC#/ExMetodosVirtuales/ExMetodosVirtuales/bin/Debug/ExMetodosVirtuales.exe.mdb
+/home/lautaro/Escritorio/Facultad/tpC#/ExMetodosVirtuales/ExMetodosVirtuales/bin/Debug/ExMetodosVirtuales.pdb
+/home/lautaro/Escritorio/Facultad/tpC#/ExMetodosVirtuales/ExMetodosVirtuales/bin/Debug/ExMetodosVirtuales.exe
+/home/lautaro/Escritorio/Facultad/tpC#/ExMetodosVirtuales/ExMetodosVirtuales/obj/x86/Debug/ExMetodosVirtuales.exe
+/home/lautaro/Escritorio/Facultad/tpC#/ExMetodosVirtuales/ExMetodosVirtuales/obj/x86/Debug/ExMetodosVirtuales.exe.mdb
+/home/lautaro/Escritorio/Facultad/tpC#/ExMetodosVirtuales/ExMetodosVirtuales/obj/x86/Debug/ExMetodosVirtuales.pdb

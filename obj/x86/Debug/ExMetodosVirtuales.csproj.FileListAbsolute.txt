@@ -1,0 +1,9 @@
+C:\Users\tani\Desktop\clase.xx.03.11.2017\ExMetodosVirtuales\obj\x86\Debug\ExMetodosVirtuales.csprojResolveAssemblyReference.cache
+C:\Users\tani\Desktop\clase.xx.03.11.2017\ExMetodosVirtuales\bin\Debug\ExMetodosVirtuales.exe.config
+C:\Users\tani\Desktop\clase.xx.03.11.2017\ExMetodosVirtuales\bin\Debug\ExMetodosVirtuales.exe
+C:\Users\tani\Desktop\clase.xx.03.11.2017\ExMetodosVirtuales\bin\Debug\ExMetodosVirtuales.pdb
+C:\Users\tani\Desktop\clase.xx.03.11.2017\ExMetodosVirtuales\obj\x86\Debug\Figuras.Form1.resources
+C:\Users\tani\Desktop\clase.xx.03.11.2017\ExMetodosVirtuales\obj\x86\Debug\ExMetodosVirtuales.Properties.Resources.resources
+C:\Users\tani\Desktop\clase.xx.03.11.2017\ExMetodosVirtuales\obj\x86\Debug\ExMetodosVirtuales.csproj.GenerateResource.Cache
+C:\Users\tani\Desktop\clase.xx.03.11.2017\ExMetodosVirtuales\obj\x86\Debug\ExMetodosVirtuales.exe
+C:\Users\tani\Desktop\clase.xx.03.11.2017\ExMetodosVirtuales\obj\x86\Debug\ExMetodosVirtuales.pdb
